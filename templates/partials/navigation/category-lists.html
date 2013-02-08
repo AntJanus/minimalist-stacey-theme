@@ -1,0 +1,14 @@
+foreach $root do
+  if $children do
+    <ul class="posts">
+      foreach $children do
+        <li>
+        if @thumb do <img src="@thumb" class="project-thumb" alt=""> endif
+          <h2>            
+            <a href="@url">@title</a> - <small>@date</small>
+          </h2>
+        </li>
+      endforeach
+    </ul>
+  endif
+endforeach

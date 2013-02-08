@@ -1,0 +1,8 @@
+title: Welcome
+-
+date: February 8th 2013
+-
+content: Proin at tincidunt sem. Donec a quam mauris. In lacinia, dui viverra facilisis feugiat, mi nisi faucibus justo, luctus consequat ipsum enim semper nulla. In sed turpis id nulla molestie tristique vitae in leo. Aenean semper pulvinar nisl a ultricies. Curabitur vitae enim lacus. Aliquam erat volutpat.
+- 
+mainimage: ![image](@path/main.jpg)
+

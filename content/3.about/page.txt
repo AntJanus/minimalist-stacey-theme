@@ -1,0 +1,7 @@
+title: About
+-
+content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique lorem quis sem interdum vestibulum. Phasellus ac urna non nunc pellentesque tristique ut in erat. Vivamus bibendum odio et odio dictum fringilla. Curabitur at leo vel turpis pellentesque sagittis. Vestibulum molestie libero at erat scelerisque convallis. Quisque accumsan, purus sit amet volutpat varius, diam orci pulvinar diam, quis scelerisque libero lorem in nisi. Cras erat nunc, cursus blandit vehicula sit amet, posuere eget massa.
+
+Aenean tincidunt dignissim ligula, vel dignissim ipsum hendrerit vel. Vestibulum nec libero massa, vitae porttitor dolor. Curabitur tincidunt, ante ut viverra consequat, libero lacus mattis elit, nec pretium dolor elit ac tortor. Nullam fringilla tincidunt egestas. Duis ac est nunc. Mauris faucibus arcu nec nunc facilisis sit amet pellentesque metus pellentesque. Donec lacinia pretium nisi ut iaculis. Duis facilisis consequat ante in imperdiet. Nullam sodales feugiat lacus, quis sodales tortor viverra vitae. Curabitur mattis urna vel dui feugiat ut pellentesque quam porttitor. Vivamus at ornare magna. Donec sagittis, eros vel fringilla venenatis, mi diam rutrum dolor, quis dignissim diam justo sed magna. Maecenas id suscipit elit.
+-
+mainimage:  <img src="@pathmain.jpg">

@@ -1,0 +1,27 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+  "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+  <head>
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8">
+    <title>@title</title>
+    <link rel="alternate" type="application/atom+xml" href="@root_path/?/feed/">
+    <link rel="stylesheet" href="@root_path/public/docs/css/style.css" type="text/css" media="screen">
+  </head>
+  <body>
+:header
+:navigation
+
+<div id="main-content">
+<div id="main-image">if @mainimage do @mainimage endif
+
+ if !@mainimage do <img src="#" alt="empty" class="empty-image"> endif</div>
+<div id="main-title"><h1>@title</h1></div>
+<div id="post-content">
+      <div id="content">
+          @content
+      </div>
+</div>
+</div>
+:footer
+  </body>
+</html>
