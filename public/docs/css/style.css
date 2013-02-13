@@ -119,6 +119,14 @@ header, nav{
 	padding: 0 15px;
 }
 
+#navigation li a, header a{
+	text-decoration: none;
+}
+
+#navigation li a:hover{
+	text-decoratione: underline;
+}
+
 .children{
 display: none;
 }
