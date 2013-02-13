@@ -185,6 +185,19 @@ font-size: 1.25em;
 font-size: .75em;
 }
 
+.align-left{
+margin: 5px 10px 5px 0;
+float:left;
+}
+
+
+.align-right{
+margin: 5px 0 5px 10px;
+float:right;
+}
+
+
+
 
 
 
