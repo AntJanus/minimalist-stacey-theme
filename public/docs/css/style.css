@@ -34,7 +34,7 @@ body {
   font-size: 1em;
   line-height: 1.5em;
   color: #4d4d4d;
-  font-family: Arial, sans-serif;
+  font-family: 'Segoe UI', Verdana, Arial, sans-serif;
   text-align: left; }
 
 a {
@@ -77,11 +77,16 @@ p {
 p + ul, p + ol {
   padding-top: 0; }
 
-ul + p, ol + p {
-  padding-top: 0; }
-
 ul, ol {
-  padding: 1.5em; }
+  padding: 1.5em 0; }
+
+li{
+margin-bottom: .5em;
+}
+
+ul li:last-child{
+margin-bottom: 0;
+}
 
 blockquote {
   padding: .75em 1.5em; }
