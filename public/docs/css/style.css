@@ -33,7 +33,7 @@ em {
 body {
   font-size: 1em;
   line-height: 1.5em;
-  color: #4d4d4d;
+  color: #444;
   font-family: 'Segoe UI', Verdana, Arial, sans-serif;
   text-align: left; }
 
@@ -48,6 +48,7 @@ a:hover {
    }
 
 h1, h2, h3, h4, h5, h6 {
+  color: #222;
   font-weight: bold;
   text-shadow: 0 1px 0 #fff;
   font-family: Georgia, serif }
@@ -62,7 +63,8 @@ h2 {
 
 h3 {
   font-size: 1.25em;
-  line-height: 1.2em;
+  line-height: 1em;
+  margin-bottom: .5em;
   font-weight: bold; }
 
 h4 {
