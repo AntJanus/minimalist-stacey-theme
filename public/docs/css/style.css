@@ -163,6 +163,11 @@ display: none;
 	margin: 0 auto;
 }
 
+#post-content img{
+  max-width: 100%;
+  height: auto;
+}
+
 #main-image{
 	max-width: 100%;
 	max-height: 450px;
