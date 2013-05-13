@@ -1,4 +1,4 @@
-minimalist-stacey-theme
+Minimalist Stacey Theme
 =======================
 
 Minimalist theme for Stacey flat-file PHP-based CMS. It's much simpler and cleaner than the default theme and is easy to work with. 
