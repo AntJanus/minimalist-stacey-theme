@@ -1,4 +1,6 @@
-name: Starting My Own Family
+name: Minimalist Stacey Theme 
+-
+subtitle: A beautiful theme by AntJanus
 -
 email: 
 <antonin@antjanus.com>

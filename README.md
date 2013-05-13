@@ -7,6 +7,7 @@ The copyright of the photos belongs to me (I took them) but you are otherwise fr
 
 Uses:
 
+* [Base Theme](http://antjan.us/labs/minimalist-stacey-theme/)
 * [Renew Life Balance](http://renewlifebalance.com)
 * [Starting My Own Family](http://startingmyownfamily.com)
 
@@ -14,6 +15,10 @@ Uses:
 
 I would like to implement a feature-based change log since I most likely won't be tagging my commits. The newest will be on top, the oldest on the bottom.
 
-### February 9th 
+###February 9th 
 
 Separation of  "head" into "head.html" partial so that it's easier to add tracking code like google analytics and webmasters verification
+
+###May 12th
+
+Fixing bugs
