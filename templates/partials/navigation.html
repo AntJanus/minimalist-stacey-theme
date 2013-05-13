@@ -1,10 +1,17 @@
-<nav>
-<ul id="navigation">
-  foreach $root do
-    <li>
-      <a href="/@url">@title</a>
-      :children
-    </li>
-  endforeach
-</ul>
+<div class="contain-to-grid">
+<nav class="top-bar">
+	<ul class="title-area">
+	<li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span>
+</a></li>
+	</ul>
+	<section class="top-bar-section">
+	<ul class="left">
+  		foreach $root do
+  	  <li>
+      		<a href="@url">@title</a>
+    	</li>
+  	endforeach
+	</ul>
+	</section>
 </nav>
+</div>

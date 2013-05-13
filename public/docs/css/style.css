@@ -1,34 +1,29 @@
 /************************* BASICS 
 **********************************************/
-html, body, div, span, object, iframe,
-h1, h2, h3, h4, h5, h6, p, blockquote, pre,
-abbr, address, cite, code,
-del, dfn, em, img, ins, kbd, q, samp,
-small, strong, sub, sup, var,
-b, i,
-dl, dt, dd, ol, ul, li,
-fieldset, form, label, legend,
-table, caption, tbody, tfoot, thead, tr, th, td,
-article, aside, canvas, details, figcaption, figure,
-footer, header, hgroup, menu, nav, section, summary,
-time, mark, audio, video {
-  margin: 0;
-  padding: 0;
-  border: 0;
-  outline: 0;
-  font-size: 100%;
-  vertical-align: baseline;
-  background: transparent; }
+html, body, div, span, object, iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address,cite,code,del,
+dfn,em,img,ins,kbd,q,samp,small,strong,sub,sup,var,b,i,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,
+caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,figcaption,figure,footer,header,hgroup,
+menu,nav,section,summary,time,mark,audio,video{
+	marign: 0;
+	padding:0;
+	border:0;
+	outline: 0;
+	font-size: 100%;
+	vertical-align: baseline;
+	background: transparent;
+}
 
-article, aside, details, figcaption, figure,
-footer, header, hgroup, menu, nav, section {
-  display: block; }
+article,aside,details,figcatpion,figure,footer,header,hgroup,menu,nav,section{
+	display:block;
+}
 
-input {
-  margin: 0; }
+input{
+	margin: 0;
+}
 
-em {
-  font-style: italic; }
+em{
+	font-style: italic;
+}
 
 body {
   font-size: 1em;
@@ -105,7 +100,6 @@ pre {
 /************************* CONTENT STYLES
 **********************************************/
 header, nav{
-	max-width: 45em;
 	margin: 0 auto;
 	text-align:center;
 }
@@ -115,23 +109,8 @@ header, nav{
 	color: #000;
 	margin-top: .25em;
 }
-
-#navigation{
-	list-style-type: none;
-}
-
-#navigation li{
-	display: inline-block;
-	vertical-align: top;
-	padding: 0 15px;
-}
-
-#navigation li a, header a{
+header a{
 	text-decoration: none;
-}
-
-#navigation li a:hover{
-	text-decoratione: underline;
 }
 
 .children{
@@ -218,15 +197,24 @@ margin: 5px 0 5px 10px;
 float:right;
 }
 
+/********************** Overrides
+ **************************************/
+.top-bar-section ul li{
+	margin-bottom: 0;
+}
 
+.top-bar-section ul {
+	margin: 0;
+	padding: 0;
+}
 
+.title-area{
+	margin-top: 0;
+}
 
-
-
-
-
-
-
+.contain-to-grid{
+	margin: 1.5em 0;
+}
 
 
 
