@@ -203,6 +203,10 @@ float:right;
 	margin-bottom: 0;
 }
 
+.top-bar-section ul li a{
+	text-decoration: none;
+}
+
 .top-bar-section ul {
 	margin: 0;
 	padding: 0;
@@ -216,8 +220,13 @@ float:right;
 	margin: 1.5em 0;
 }
 
+.top-bar .toggle-topbar.menu-icon a{
+	text-indent: -75px;
+}
 
-
+.top-bar-section li a:not(.button):hover{
+	background: #2b2b2b !important;
+}
 
 
 
