@@ -11,6 +11,19 @@ Uses:
 * [Renew Life Balance](http://renewlifebalance.com)
 * [Starting My Own Family](http://startingmyownfamily.com)
 
+##Future Plans
+
+What are the future plans for this minimalist theme?
+
+* stabilize for this version of Stacey
+* fully implement Foundation
+* add polishing styling
+
+What about after that?
+
+* Update to Stacey 3.0 
+* possibly create my own file-based CMS to circumvent dependence on Stacey
+
 ## Changelog
 
 I would like to implement a feature-based change log since I most likely won't be tagging my commits. The newest will be on top, the oldest on the bottom.
@@ -32,3 +45,5 @@ Style Changes:
 * Foundation base styling (for CERTAIN elements only)
 * new grid
 * new navbar
+
+
