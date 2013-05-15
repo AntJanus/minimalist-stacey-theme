@@ -19,6 +19,16 @@ I would like to implement a feature-based change log since I most likely won't b
 
 Separation of  "head" into "head.html" partial so that it's easier to add tracking code like google analytics and webmasters verification
 
-###May 12th
+###May 15th
 
-Fixing bugs
+Added Features:
+
+* Foundation
+* jQuery
+* new styling
+
+Style Changes:
+
+* Foundation base styling (for CERTAIN elements only)
+* new grid
+* new navbar
