@@ -5,3 +5,4 @@ subtitle: A beautiful theme by AntJanus
 email: 
 <antonin@antjanus.com>
 -
+description: My own blog about different things
