@@ -6,12 +6,23 @@
 <div id="main-image">if @mainimage do @mainimage endif
 
  if !@mainimage do <img src="#" alt="empty" class="empty-image"> endif</div>
+<div class="row">
+<div class="large-12 columns">
 <div id="main-title"><h1>@title</h1></div>
-<div id="post-content">
-	<div id="main-meta">@date</div>
+</div>
+<div class="row">
+	<div class="large-2 columns">
+	<div id="main-meta">@date</div><br />
+	<strong>Author</strong>: @author<br />
+	<strong>Description</strong>: @author_bio<br />
+	</div>
+	<div class="large-8 columns">
       <div id="content">
        @content
       </div>
+	</div>	
+<div class="large-2 columns">
+	</div>
 </div>
 </div>
 :footer

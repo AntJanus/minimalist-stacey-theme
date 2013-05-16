@@ -6,3 +6,7 @@ email:
 <antonin@antjanus.com>
 -
 description: My own blog about different things
+-
+author: Antonin Januska
+- 
+author_bio: A writer of all kinds
