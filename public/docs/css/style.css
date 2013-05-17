@@ -146,7 +146,6 @@ display: none;
 	max-height: 450px;
 	height: auto;
 	width: 100%;
-	margin-top: -2em;
 	overflow:hidden;
 }
 
@@ -209,7 +208,11 @@ float:right;
 }
 
 .contain-to-grid{
-	margin: 1.5em 0;
+	margin: 1.5em 0 0;
+}
+
+.contain-to-grid .top-bar{
+	margin-bottom: 0;
 }
 
 .top-bar .toggle-topbar.menu-icon a{
