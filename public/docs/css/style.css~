@@ -1,10 +1,10 @@
 /************************* BASICS 
-**********************************************/
+*********************************************/
 html, body, div, span, object, iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address,cite,code,del,
 dfn,em,img,ins,kbd,q,samp,small,strong,sub,sup,var,b,i,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,
 caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,figcaption,figure,footer,header,hgroup,
 menu,nav,section,summary,time,mark,audio,video{
-	marign: 0;
+	margin: 0;
 	padding:0;
 	border:0;
 	outline: 0;
@@ -117,11 +117,12 @@ display: none;
 }
 
 #main-title{
-	max-width: 45em;
-	margin: 0 auto;
+	width: 100%;
 	margin-top: -3.5em;
 	margin-bottom: 1em;
 	position:relative;
+	background: #fff;
+	padding: 0 10px;
 }
 
 #main-title h1{:
