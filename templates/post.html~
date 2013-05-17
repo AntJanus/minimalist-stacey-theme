@@ -7,10 +7,8 @@
 
  if !@mainimage do <img src="#" alt="empty" class="empty-image"> endif</div>
 <div class="row">
-<div class="row">
 <div class="large-12 columns">
 <div id="main-title"><h1>@title</h1></div>
-</div>
 </div>
 <div class="row">
 	<div class="large-2 columns">
