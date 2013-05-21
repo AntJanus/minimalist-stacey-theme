@@ -7,14 +7,12 @@
 
  if !@mainimage do <img src="#" alt="empty" class="empty-image"> endif</div>
 <div class="row">
-<div class="row">
 <div class="large-12 columns">
 <div id="main-title"><h1>@title</h1></div>
 </div>
-</div>
 <div class="row">
 	<div class="large-2 columns">
-	<strong>Date</strong>: @date<br />
+	<div id="main-meta">@date</div><br />
 	<strong>Author</strong>: @author<br />
 	<strong>Description</strong>: @author_bio<br />
 	</div>

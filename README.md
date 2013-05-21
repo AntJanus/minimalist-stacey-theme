@@ -46,4 +46,12 @@ Style Changes:
 * new grid
 * new navbar
 
+###May 20th
+
+Version 1.0
+
+* new grid styling
+* new meta styling
+* added content
+* hardening of release (fully ready to be used)
 
