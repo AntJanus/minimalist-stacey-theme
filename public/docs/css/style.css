@@ -1,4 +1,4 @@
-/************************* BASICS 
+/************************* BASICS
 *********************************************/
 html, body, div, span, object, if√rame,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address,cite,code,del,
 dfn,em,img,ins,kbd,q,samp,small,strong,sub,sup,var,b,i,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,
@@ -39,7 +39,7 @@ a {
 
 a:hover {
   color: #000;
-  text-decoration: none; 
+  text-decoration: none;
    }
 
 h1, h2, h3, h4, h5, h6 {
@@ -79,6 +79,12 @@ blockquote{
 	padding: .75em 1.5em;
 	border-left: 1px solid #e2e2e2;
 	color: #555;
+    font-size: 26px;
+    margin-bottom: 1.5em;
+}
+
+blockquote p {
+    margin: 0;
 }
 
 cite{
