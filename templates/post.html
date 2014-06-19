@@ -3,13 +3,11 @@
 :navigation
 
 <div id="main-content" class="post">
-<div id="main-image">if @mainimage do @mainimage endif
-
- if !@mainimage do <img src="#" alt="empty" class="empty-image"> endif</div>
+if @mainimage do <div id="main-image">@mainimage</div>endif
 <div class="row">
 <div class="row">
 <div class="large-12 columns">
-<div id="main-title"><h1>@title</h1></div>
+<div id="main-title" class="if !@mainimage do below endif"><h1>@title</h1></div>
 </div>
 </div>
 <div class="row">
